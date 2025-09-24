@@ -14,12 +14,16 @@ Parts used in this project:
     - Power Supply 
 
 
-Here you can see and play around the project in real time:
-https://wokwi.com/projects/442999362420339713
+Here you can see and play around with the project in real time: https://wokwi.com/projects/442999362420339713
 
 ## Screenshots
 
 ![Diagram](/images/project.png?raw=true "Project Diagram")
+
+
+Block Diagram
+
+![Block Diagram](/images/BlockDiagram.png?raw=true "Project Block Diagram")
 
 
 
