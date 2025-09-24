@@ -38,13 +38,16 @@ The constants in the code can be changed to the user's liking. I've used values 
 The constants in question:
 
 How often the pet is fed (in milliseconds)
-> const unsigned long FEED_INTERVAL = 20000;
+    
+    const unsigned long FEED_INTERVAL = 20000;
 
 The weight of the food intake (in grams)
-> const int TARGET_WEIGHT = 65.00;
+    
+    const int TARGET_WEIGHT = 65.00;
 
 Distance between the Ultrasonic Distance Sensor and the food (in centimeters)
-> const int EMPTY_CONTAINER_DISTANCE = 10; 
+    
+    const int EMPTY_CONTAINER_DISTANCE = 10; 
 
 
 
